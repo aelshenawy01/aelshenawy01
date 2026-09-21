@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Abdallah 👋
 
-<!--
-**aelshenawy01/aelshenawy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML | Embedded Systems
 
-Here are some ideas to get you started:
+I'm a Mechatronics Engineering graduate interested in building
+practical software and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on:
+Machine Learning and AI Engineering projects
+
+🌱 Currently learning:
+Machine Learning,
+Gen AI, and Embedded Systems
+
+🛠 Technologies:
+Python | C | C++ | Git | GitHub | Machine Learning
+Pandas | NumPy | Scikit-learn
+
+📌 Featured Projects
+• Titanic Survival Prediction
+• [future project]
