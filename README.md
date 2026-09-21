@@ -1,6 +1,6 @@
 # Hi, I'm Abdallah El-Shenawy 👋
 
-### Software Engineer | AI / Machine Learning Engineer
+### Hardware Engineer | AI / Machine Learning Engineer
 
 I'm a Mechatronics Engineering graduate from the **German University in Cairo (GUC)** with a strong interest in **Software Engineering, Artificial Intelligence, Machine Learning, Computer Vision, Robotics, and Embedded Systems**.
 
