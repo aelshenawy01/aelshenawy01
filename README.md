@@ -1,98 +1,166 @@
+
+<div align="center">
+
 # Hi, I'm Abdallah El-Shenawy 👋
 
-### Hardware Engineer | AI / Machine Learning Engineer
+### Software Engineer | AI / Machine Learning Engineer
 
-I'm a Mechatronics Engineering graduate from the **German University in Cairo (GUC)** with a strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, Robotics, and Embedded Systems**.
+**Machine Learning • Computer Vision • Robotics • Embedded Systems**
 
-I enjoy building intelligent systems that combine software, machine learning, perception, and real-world engineering.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aelshenawy01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-el-shenawy-bb5aa7242)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahamr1701@gmail.com)
+
+📍 Cairo, Egypt
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Sc. in **Mechatronics Engineering** from the German University in Cairo
-* 🤖 Interested in **AI, Machine Learning, Computer Vision, Robotics, and Software Engineering**
-* 🔬 Researched **machine-learning-based failure detection in plastic bevel gears using vibration signals** at the American University in Cairo
-* 🗺️ Completed an **A+ bachelor's thesis in Visual SLAM** in collaboration with Beko R&D and Aratronics Research Center
-* 🚗 Built projects involving **autonomous vehicles, robotic vision, ROS, path planning, and embedded systems**
-* 🧠 Currently expanding my knowledge in **AI/ML, Edge AI, TinyML, and intelligent software systems**
-* 🚀 Interested in applying AI and software engineering to practical real-world problems
+I'm a **Mechatronics Engineering graduate from the German University in Cairo (GUC)** with a strong foundation in software engineering, artificial intelligence, machine learning, and autonomous robotics.
+
+My experience spans **machine learning research, computer vision, robotic systems, and embedded software**. I'm particularly interested in developing intelligent solutions that bridge the gap between software and real-world engineering applications.
+
+- 🎓 **B.Sc. in Mechatronics Engineering** — German University in Cairo
+- 🔬 **Former Researcher & Teaching Assistant at AUC**, investigating machine-learning-based fault detection using vibration signals
+- 🗺️ Completed an **A+ Visual SLAM bachelor's thesis** in collaboration with Beko R&D and Aratronics Research Center
+- 🤖 Developed projects involving computer vision, ROS, autonomous navigation, robotic control, and optimization
+- 🧠 Continuously expanding my knowledge in AI/ML, deep learning, Edge AI, and software development
+- 🎯 Interested in opportunities in **Software Engineering, AI/ML, Computer Vision, and Embedded Software**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming
-
-Python • C++ • C • SQL • MATLAB • Java
-
-### AI & Machine Learning
-
-Scikit-learn • PyTorch • TensorFlow • Keras • Deep Learning • Model Deployment
-
-### Computer Vision & Robotics
-
-OpenCV • ROS • Visual SLAM • Image Processing • Autonomous Navigation • Path Planning
-
-### Data & AI Tools
-
-Pandas • NumPy • Jupyter Notebook • Git • GitHub
-
-### Generative AI
-
-Large Language Models • RAG • LangChain • NLP • Prompt Engineering
-
-### Embedded & Edge AI
-
-STM32 • Raspberry Pi • Arduino • FPGA • Edge AI • TinyML
+| Category | Technologies |
+|----------|-------------|
+| **Programming** | Python, C++, C, Java, SQL, MATLAB |
+| **AI & Machine Learning** | Scikit-learn, PyTorch, TensorFlow, Keras, Deep Learning |
+| **Computer Vision** | OpenCV, Image Processing, Visual SLAM |
+| **Robotics** | ROS, Autonomous Navigation, Path Planning, Control Systems |
+| **Generative AI** | LLMs, RAG, LangChain, NLP, Prompt Engineering |
+| **Embedded Systems** | STM32, Raspberry Pi, Arduino, FPGA |
+| **Edge AI** | TinyML, Edge AI for Microcontrollers |
+| **Development Tools** | Git, GitHub, Jupyter Notebook, REST APIs |
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### 🔬 Gear Failure Detection using Machine Learning
+### 🤖 [Connect Four Robot](https://github.com/aelshenawy01/Connect-Four-Robot)
 
-Research focused on detecting failures in **plastic bevel gears using vibration signals and machine learning**, including vibration-data analysis and distinguishing healthy from faulty gear conditions.
+Developed a vision-guided robotic system capable of playing Connect Four using image processing and automated decision-making.
 
-### 🗺️ Visual SLAM
+- Implemented board recognition using OpenCV and color detection
+- Developed heuristic-based move selection
+- Integrated Raspberry Pi vision processing with Arduino-controlled actuation
 
-Bachelor's thesis focused on **Visual Simultaneous Localization and Mapping (Visual SLAM)**, completed in collaboration with **Beko R&D and Aratronics Research Center**.
+**Technologies:** Python, OpenCV, Raspberry Pi, Arduino
 
-**Grade: A+**
+### 🛩️ [Multi-UAV Path Planning Optimization](https://github.com/aelshenawy01/Path-Planning-in-Continuous-Spaces-for-UAVs-Using-Meta-Heuristics)
 
-### 🤖 Connect Four Robot
+Explored optimization algorithms for autonomous UAV navigation in continuous 3D environments.
 
-Developed an autonomous game-playing robot using **computer vision, OpenCV, and Raspberry Pi 4**.
+- Investigated meta-heuristic optimization techniques
+- Considered path efficiency and obstacle avoidance
+- Compared approaches for autonomous navigation and route planning
 
-### 🚗 Autonomous Vehicle
+**Technologies:** Python, Optimization Algorithms, Path Planning
 
-Built an autonomous vehicle platform using **ROS on Raspberry Pi**, integrating perception, planning, and actuation.
+### 🦾 [Robotic Arm Coordination](https://github.com/aelshenawy01/Robotic-Arm-Coordination)
 
-### 🚢 Titanic Survival Prediction
+Developed coordination and synchronization approaches for two robotic arms performing a collaborative basketball-throwing task.
 
-Machine-learning classification project using **Python, Pandas, Scikit-learn, Random Forest, cross-validation, and hyperparameter optimization**.
+- Investigated coordinated robotic motion
+- Worked with robotic modeling and simulation
+- Explored synchronization and control strategies
+
+**Technologies:** Robotics, MATLAB, Simulation
+
+### 🚢 [Titanic Survival Prediction](https://github.com/aelshenawy01/titanic-survival-prediction)
+
+Developed a machine-learning classification pipeline to predict passenger survival.
+
+- Performed data preprocessing and feature engineering
+- Trained a Random Forest classifier
+- Applied stratified cross-validation and hyperparameter tuning
+- Achieved approximately **82% test accuracy**
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn
+
+### 🎮 [Titan Defense — JavaFX Strategy Game](https://github.com/aelshenawy01/Titan-Defense-Java-Game)
+
+Developed a Java-based strategy game using object-oriented programming principles.
+
+- Implemented gameplay and battle logic
+- Developed enemy, weapon, and resource-management systems
+- Built a desktop interface using JavaFX
+
+**Technologies:** Java, JavaFX, Object-Oriented Programming
 
 ---
 
-## 📚 Currently Learning
+## 🔬 Research & Academic Highlights
 
-* Advanced Machine Learning
-* Deep Learning
-* AI Engineering
-* Software Engineering
-* Edge AI & TinyML
-* Generative AI & LLM Applications
+### Machine Learning-Based Gear Failure Detection
+**American University in Cairo (AUC) | 2024–2025**
+
+Conducted research on detecting failures in plastic bevel gears using vibration signals and machine learning.
+
+- Analyzed vibration data from mechanical systems
+- Investigated methods for distinguishing healthy and faulty gear conditions
+- Explored machine-learning approaches for fault detection
+- Supported undergraduate laboratory instruction as a Teaching Assistant
+
+### Visual Simultaneous Localization and Mapping (Visual SLAM)
+**Bachelor's Thesis | Grade: A+**
+
+Completed my bachelor's thesis in collaboration with **Beko R&D and Aratronics Research Center**.
+
+- Focused on Visual SLAM for robotic localization and environment mapping
+- Applied concepts from computer vision and autonomous robotics
+- Received a **Certificate of Excellence from Arçelik Türkiye**
+
+*Thesis materials are not publicly available.*
 
 ---
 
-## 🎯 Areas of Interest
+## 📚 Certifications & Professional Development
 
-`Artificial Intelligence` • `Machine Learning` • `Software Engineering` • `Computer Vision` • `Robotics` • `Embedded Systems` • `Edge AI`
+- **IBM AI Engineering Professional Certificate** — 2026
+- **Edge AI for Microcontrollers Specialization** — 2026
+- **Embedded Software Development with C Specialization** — 2026
+- **Databases and SQL for Data Science with Python** — 2026
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Statistics
 
-* 💼 LinkedIn
-* 💻 GitHub: @aelshenawy01
-* 📍 Cairo, Egypt
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aelshenawy01&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aelshenawy01&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities to contribute to meaningful projects, collaborate with engineers, and continue growing professionally in **Software Engineering and AI/ML**.
+
+- 💼 **LinkedIn:** [Abdallah El-Shenawy](https://www.linkedin.com/in/abdallah-el-shenawy-bb5aa7242)
+- 📧 **Email:** [abdallahamr1701@gmail.com](mailto:abdallahamr1701@gmail.com)
+- 💻 **GitHub:** [@aelshenawy01](https://github.com/aelshenawy01)
+- 📍 **Location:** Cairo, Egypt
+
+---
+
+<div align="center">
+
+**Building intelligent software solutions, one project at a time.**
+
+</div>
