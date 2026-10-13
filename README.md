@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-el-shenawy-bb5aa7242)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahamr1701@gmail.com)
 
-📍 Cairo, Egypt
+📍 New Cairo, Egypt
 
 </div>
 
@@ -155,7 +155,7 @@ I'm interested in opportunities to contribute to meaningful projects, collaborat
 - 💼 **LinkedIn:** [Abdallah El-Shenawy](https://www.linkedin.com/in/abdallah-el-shenawy-bb5aa7242)
 - 📧 **Email:** [abdallahamr1701@gmail.com](mailto:abdallahamr1701@gmail.com)
 - 💻 **GitHub:** [@aelshenawy01](https://github.com/aelshenawy01)
-- 📍 **Location:** Cairo, Egypt
+- 📍 **Location:** New Cairo, Egypt
 
 ---
 
